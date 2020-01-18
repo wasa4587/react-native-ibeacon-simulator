@@ -15,5 +15,6 @@
     "ibeacon",
     "beacon simulator"
   ],
+  "typings": "index.d.ts",
   "license": "MIT"
 }
